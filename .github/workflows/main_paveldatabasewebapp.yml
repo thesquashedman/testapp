@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'PavelDatabaseWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_21F1CC5DC7024280A858E63DFF636F00 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CA7B51B1A8BE40C289BCDA687C4AE61B }}
